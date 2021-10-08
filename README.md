@@ -116,7 +116,7 @@
     </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=macsimtv&show_icons=true&locale=en&layout=compact" alt="macsimtv" /></p>
+<p><img align="center" src="http://github-readme-stats.vercel.app/api/top-langs?username=macsimtv&show_icons=true&locale=en&layout=compact" alt="macsimtv" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=macsimtv&show_icons=true&locale=en" alt="macsimtv" /></p>
 
