@@ -25,7 +25,7 @@
 
 - 📫 How to reach me [maximelecouturier@gmail.com](mailto:maximelecouturier@gmail.com)
 
-- ⚡ Fun fact **I'm Mr. Black&White**
+- ⚡ Fun fact I'm **Mr. Black&White**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
