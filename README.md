@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Laravel & Vue !**
 
-- 📫 How to reach me [mailto:maximelecouturier@gmail.com](maximelecouturier@gmail.com)
+- 📫 How to reach me [maximelecouturier@gmail.com](mailto:maximelecouturier@gmail.com)
 
 - ⚡ Fun fact **I'm Mr. Black&White**
 
