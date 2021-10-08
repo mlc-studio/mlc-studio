@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [ZenFinder](https://github.com/macsimtv/zenfinder)
 
-- 🌱 I’m currently learning at **Ynov**
+- 🌱 I’m currently learning at **Ynov Nante**
 
 - 💰 I’m looking to start **Freelance**
 
