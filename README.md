@@ -13,13 +13,13 @@
     <a href="https://twitter.com/macsimtv" target="blank"><img src="https://img.shields.io/twitter/follow/macsimtv?logo=twitter&style=for-the-badge" alt="macsimtv" /></a>
 </p>
 
-- 🔭 I’m currently working on [ZenFinder](https://github.com/macsimtv/zenfinder)
+- 🔭 I’m currently working on [Catchat](https://github.com/Brozzor/discord-like)
 
 - 🌱 I’m currently learning at **Ynov Nantes**
 
 - 💰 I’m looking to start **Freelance**
 
-- 👨‍💻 All of my projects are available at [https://mxl.netlify.app](https://mxl.netlify.app)
+- 👨‍💻 All of my projects are available at [https://maximelecouturier.fr](https://maximelecouturier.fr)
 
 - 💬 Ask me about **Laravel & Vue !**
 
