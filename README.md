@@ -13,9 +13,9 @@
     <a href="https://twitter.com/macsimtv" target="blank"><img src="https://img.shields.io/twitter/follow/macsimtv?logo=twitter&style=for-the-badge" alt="macsimtv" /></a>
 </p>
 
-- 🔭 I’m currently working on [Pokebot.](https://github.com/pokebot-discord)
+- 🔭 I’m currently working on [Pokebot.](https://pokebot.cc/)
 
-- 🌱 I’m currently learning at **Ynov Nantes**
+- 🌱 I’m currently learning at **Ynov Nantes** and working in **LiveResto**
 
 - 💰 I’m looking to start **Freelance**
 
