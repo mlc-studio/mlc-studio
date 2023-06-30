@@ -13,8 +13,6 @@
     <a href="https://twitter.com/macsimtv" target="blank"><img src="https://img.shields.io/twitter/follow/macsimtv?logo=twitter&style=for-the-badge" alt="macsimtv" /></a>
 </p>
 
-- 🔭 I’m currently working on [Pokebot.](https://pokebot.cc/)
-
 - 🌱 I’m currently learning at **Ynov Nantes** and working in **LiveResto**
 
 - 💰 I’m looking to start **Freelance**
@@ -117,7 +115,3 @@
 </p>
 
 <p><img align="center" src="http://github-readme-stats.vercel.app/api/top-langs?username=macsimtv&show_icons=true&locale=en&layout=compact" alt="macsimtv" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=macsimtv&show_icons=true&locale=en" alt="macsimtv" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=macsimtv&" alt="macsimtv" /></p>
