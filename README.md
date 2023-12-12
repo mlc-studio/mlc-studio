@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-    <a href="https://twitter.com/macsimtv" target="blank"><img src="https://img.shields.io/twitter/follow/macsimtv?logo=twitter&style=for-the-badge" alt="macsimtv" /></a>
+    <a href="https://twitter.com/mxl_dev" target="blank"><img src="https://img.shields.io/twitter/follow/mxl_dev?logo=twitter&style=for-the-badge" alt="mxl_dev" /></a>
 </p>
 
 - 🌱 I’m currently learning at **Ynov Nantes** and working in **LiveResto**
