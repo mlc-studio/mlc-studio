@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://maximelecouturier.fr](https://maximelecouturier.fr)
 
-- 💬 Ask me about **Nuxt, Vue, Express, NodeJS, MongoDB, Strapi & of course JavaScript**
+- 💬 Ask me about **Vue, React, Express, NodeJS, MongoDB & of course JavaScript**
 
 - 📫 How to reach me [maximelecouturier@gmail.com](mailto:maximelecouturier@gmail.com)
 
