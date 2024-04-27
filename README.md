@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Web Developer from France 🥖🍷</h3>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=macsimtv&label=Profile%20views&color=0e75b6&style=flat" alt="macsimtv" />
+    <img src="https://komarev.com/ghpvc/?username=mlc-studio&label=Profile%20views&color=0e75b6&style=flat" alt="mlc-studio" />
 </p>
 
 <p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=macsimtv" alt="macsimtv" /></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mlc-studio" alt="mlc-studio" /></a>
 </p>
 
 <!-- <p align="left">
@@ -72,4 +72,4 @@
     </a>
 </p>
 
-<p><img align="center" src="http://github-readme-stats.vercel.app/api/top-langs?username=macsimtv&show_icons=true&locale=en&layout=compact" alt="macsimtv" /></p>
+<p><img align="center" src="http://github-readme-stats.vercel.app/api/top-langs?username=mlc-studio&show_icons=true&locale=en&layout=compact" alt="mlc-studio" /></p>
