@@ -5,14 +5,6 @@
     <img src="https://komarev.com/ghpvc/?username=mlc-studio&label=Profile%20views&color=0e75b6&style=flat" alt="mlc-studio" />
 </p>
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mlc-studio" alt="mlc-studio" /></a>
-</p>
-
-<!-- <p align="left">
-    <a href="https://twitter.com/mxl_dev" target="blank"><img src="https://img.shields.io/twitter/follow/mxl_dev?logo=twitter&style=for-the-badge" alt="mxl_dev" /></a>
-</p> -->
-
 - 🌱 I’m currently learning at **Ynov Nantes** and working in **LiveResto**
 
 - 💻 I’m looking for a beautiful work experience in an incredible company.
