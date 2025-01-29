@@ -5,13 +5,11 @@
     <img src="https://komarev.com/ghpvc/?username=mlc-studio&label=Profile%20views&color=0e75b6&style=flat" alt="mlc-studio" />
 </p>
 
-- 🌱 I’m currently learning at **Ynov Nantes** and working in **LiveResto**
-
-- 💻 I’m looking for a beautiful work experience in an incredible company.
+- 🌱 I’m currently as a **Freelancer**
 
 - 👨‍💻 All of my projects are available at [https://mlc-stud.io](https://mlc-stud.io)
 
-- 💬 Ask me about **Vue, React, Express, NodeJS, MongoDB & of course JavaScript**
+- 💬 Ask me about **React, Next.js, Express, NodeJS, MongoDB & of course JavaScript/TypeScript**
 
 - 📫 How to reach me [maximelecouturier@gmail.com](mailto:maximelecouturier@gmail.com)
 
