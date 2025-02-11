@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=mlc-studio&label=Profile%20views&color=0e75b6&style=flat" alt="mlc-studio" />
 </p>
 
-- 🌱 I’m currently as a **Freelancer**
+- 🌱 I am currently working as a freelancer
 
 - 👨‍💻 All of my projects are available at [https://mlc-stud.io](https://mlc-stud.io)
 
